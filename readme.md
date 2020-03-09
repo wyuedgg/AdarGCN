@@ -36,3 +36,7 @@ Folder 'FSL/datasets' should contain the raw images of 2 FSL benchmark datasets 
     python eval.py --test_model D-mini_N-5_K-5_U-0_L-3_B-32_T-False_SEED-222
 
 Please don't forget to check other arguments before running the code.
+
+## Acknowledgment
+We thank following repos providing helpful components/functions in our work.
+1. Edge-labeling Graph Neural Network for Few-shot Learning https://github.com/khy0809/fewshot-egnn
